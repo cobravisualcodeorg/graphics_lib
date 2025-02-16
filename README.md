@@ -16,4 +16,13 @@ codigo fuente :https://github.com/cobravisualcodeorg/graphics_lib/blob/main/grap
  
 ![esp32](https://github.com/user-attachments/assets/501176c8-e689-4e3c-bb12-696cdcad5521)
 
-
+Examples
+---------
+_________________________________________________________________________________________
+(1)Barra_loading.py
+(*)Video del :Ejemplo
+👉https://photos.app.goo.gl/mXXTz8QjUGYAqpW89
+________________________________________________________________________________________
+(*)Pruebalo aqui:
+👉https://github.com/cobravisualcodeorg/graphics_lib/blob/main/Examples/Barra_Loading.py
+_________________________________________________________________________________________
