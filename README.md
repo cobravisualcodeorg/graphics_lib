@@ -1,8 +1,9 @@
 # graphics_lib
-graphics_Lib for esp32-2432S028 
+graphics_Lib para esp32-2432S028 
 Libreria basada en (ILI9341)..
+-----------------------------------
 graphics_Lib por cobravisualcode.org
-
+____________________________________
 codigo fuente :https://github.com/cobravisualcodeorg/graphics_lib/blob/main/graphics_lib.py
 
 
